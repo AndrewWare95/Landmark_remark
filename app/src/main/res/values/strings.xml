@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Landmark_remark</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="note_added_successfully">Note Added Successfully</string>
+    <string name="error_adding_note">Error Adding Note</string>
+    <string name="add_note_to_my_location">Add Note To My Location</string>
+    <string name="search_here">Search Here</string>
+    <string name="add_note">Add Note</string>
+    <string name="please_enter_a_note">Please enter a note for this location</string>
+    <string name="username_note_title">User: %1$s</string>
+    <string name="username">Username</string>
+</resources>
