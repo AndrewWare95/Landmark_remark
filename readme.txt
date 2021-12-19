@@ -2,6 +2,8 @@ Landmark Remark
 
 Project Comments.
 
+    •   App Can be run using build variant "Debug"
+
 	•	Login screen is a basic Activity with a text box and button. Logging in passes the username String to the next activity.
 	•	The map view screen is an Activity, with a Fragment, that uses a ViewModel to manage logic.
 
@@ -20,7 +22,7 @@ Project Comments.
 
 Using the app.
 
-	•	 Launch page is a basic page for the user to enter their username.
+	•	Launch page is a basic page for the user to enter their username.
 	•	Once they have hit “Enter” they will be brought to the Main screen and requested location permissions.
 	•	Clicking “Add note to my location” button will take the users current location, and ask the user to create a note for that location.
 	•	Long clicking anywhere in the app will take that location and ask the user to create a note for that location.
